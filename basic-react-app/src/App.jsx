@@ -6,8 +6,6 @@ function Title(){
 function App() {
   return (
   <div>
-    <h1>This is my app component</h1>
-    <p>Inside app component we have : </p>
     <Title/>
   </div>
   );
